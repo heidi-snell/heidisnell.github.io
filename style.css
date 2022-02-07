@@ -23,7 +23,7 @@ body {
     font-size: 20px;
     color: #000000;
     background-color: #eeffdb;
-    font-family: "sans-serif";
+    font-family: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
 }
 
 
@@ -40,17 +40,8 @@ body {
     margin-right: 15%;
 }
 
-#SeenAt {
-        font-size: 15px;
-}
-
-
-#SeenOn {
-        font-size: 15px;
-}
-
 #Bio {
-    margin-left: 25%;
-    margin-right: 25%;
+    margin-left: 20%;
+    margin-right: 20%;
     text-align: left;
 }
