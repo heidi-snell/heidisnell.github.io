@@ -7,12 +7,12 @@ p {
 
 a {
     text-decoration: none;
-    color: #213fff;
+    color: #6286e3;
 }
 
 a:hover {
     text-decoration: none;
-    color: #ffa0a0;
+    color: #c484db;
 }
 
 body {
@@ -22,13 +22,12 @@ body {
     text-align: center;
     font-size: 20px;
     color: #5b5b5b;
-    background-color: #d9c3a5;
+    background-color: #ffe7bf;
     font-family: "sans-serif";
 }
 
 
 #navigation {
-
     top: 8%;
     left: 0;
     width: 100%;
