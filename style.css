@@ -28,15 +28,23 @@ body {
 
 h3.resumeSection{
     color: #304a12;
+    text-align: left;
 }
 
 h4.workplace{
     font-weight: bold;
+    text-align: left;
 }
 
 p.resumeDate{
     color: #6e6e6e;
     font-size: 15px;
+    text-align: left;
+}
+
+p.resumeBullet{
+    font-size: 15px;
+    text-align: left;
 }
 
 #navigation {
