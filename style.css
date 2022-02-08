@@ -27,15 +27,15 @@ body {
 }
 
 h3.resumeSection{
-background-color: #304a12;
+    color: #304a12;
 }
 
 h4.workplace{
-background-color: bold;
+    font-weight: bold;
 }
 
 p.resumeDate{
-    color: #424242;
+    color: #6e6e6e;
     font-size: 15px;
 }
 
