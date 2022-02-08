@@ -26,6 +26,17 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h3.resumeSection{
+background-color: #304a12;
+}
+
+h4.workplace{
+background-color: bold;
+}
+
+p.resumeDate{
+    color: #424242;
+}
 
 #navigation {
     top: 8%;
