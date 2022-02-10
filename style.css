@@ -31,7 +31,8 @@ body {
 }
 
 span.resumeSection{
-    font-size: 25px;
+    font-size: 30px;
+    font-weight: bold;
     color: #304a12;
     text-align: left;
 }
