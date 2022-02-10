@@ -1,12 +1,12 @@
-#navigation{
+/* #navigation{
     text-align: center;
-}
+} */
 
 p {
     letter-spacing: 0.05em;
     word-spacing: 0em;
     line-height: 1.5;
-    /* text-align: center; */
+    text-align: center;
 }
 
 a {
@@ -23,7 +23,7 @@ body {
 	letter-spacing: 0.1em;
     word-spacing: 0em;
     line-height: 1.5;
-    /* text-align: center; */
+    text-align: center;
     font-size: 20px;
     color: #000000;
     background-color: #eeffdb;
@@ -74,4 +74,8 @@ p.resumeBullet{
     margin-left: 20%;
     margin-right: 20%;
     /* text-align: left; */
+}
+
+#resume{
+    text-align: left;
 }
