@@ -31,7 +31,7 @@ h3.resumeSection{
     text-align: left;
 }
 
-h4.resumeSubSection{
+span.resumeSubSection{
     font-weight: bold;
     text-align: left;
     kerning: 1;
