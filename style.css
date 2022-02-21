@@ -5,6 +5,11 @@ p {
     text-align: center;
 }
 
+p.caption{
+        color: #6e6e6e;
+    font-size: 15px;
+}
+
 a {
     text-decoration: none;
     color: #6286e3;
