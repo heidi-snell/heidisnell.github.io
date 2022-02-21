@@ -17,11 +17,14 @@ p.resumeBullet{
 
 .column{
   float: left;
+  padding: 10px;
   width: 33.33%;
 }
 
-.row{
+.row::after{
+  content: "";
   display: table;
+  clear: both;
 }
 
 a {
