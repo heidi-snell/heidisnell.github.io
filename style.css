@@ -18,13 +18,10 @@ p.resumeBullet{
 .column{
   float: left;
   width: 33.33%;
-  padding: 10px;
 }
 
 .row{
-  content: "";
   display: table;
-  clear: both;
 }
 
 a {
